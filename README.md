@@ -1,7 +1,7 @@
 # 주제 : 손글씨 만들어드립니다. 
 ## 부제 : 나만의 손글씨 생성 프로젝트
 
-<img src='./imgs/title.png'/>
+![title](https://user-images.githubusercontent.com/66348480/169939908-043fa8e3-4e7a-43d9-890f-57507fc4364e.PNG)
 
 #### GAN을 활용해서 상용한글 2350자를 만들어내고 최종적으로 TTF 폰트파일까지 만들어줍니다.
 
